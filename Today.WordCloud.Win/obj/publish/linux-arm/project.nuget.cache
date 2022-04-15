@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfkbxh+MsnsVaSc7yoxz3pV+VIw/9fm9fOAcOOUbxUVyTSjgZJuaNZ3fbZi7Kp64Z/I40gs+UUTr+0Hl1c9kww==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\github\\WordCloud\\Today.WordCloud\\WordCloud.Proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\odin\\.nuget\\packages\\brotlisharplib\\0.3.3\\brotlisharplib.0.3.3.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\jiebanet.analyser\\1.0.6\\jiebanet.analyser.1.0.6.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\jiebanet.segmenter\\1.0.6\\jiebanet.segmenter.1.0.6.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\knowledgepicker.wordcloud\\1.1.0\\knowledgepicker.wordcloud.1.1.0.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\portable.bouncycastle.1.8.8.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\titanium.web.proxy\\3.1.1397\\titanium.web.proxy.3.1.1397.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm\\3.1.24\\microsoft.netcore.app.runtime.linux-arm.3.1.24.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\3.1.24\\microsoft.aspnetcore.app.runtime.linux-arm.3.1.24.nupkg.sha512",
+    "C:\\Users\\odin\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\3.1.24\\microsoft.netcore.app.host.linux-arm.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Sh0x+5KbQP3EP9sodaePoGeyyf1idPXLjqUZWh+krp+fjuFaLK4EGG3gKtPEg+Pnq1Xp4jWyGFEp125u+h0JA==",
+  "success": true,
+  "projectFilePath": "/Users/odinluo/Documents/Today.WordCloud.Mac/KnowledgePicker.WordCloud/KnowledgePicker.WordCloud.csproj",
+  "expectedPackageFiles": [
+    "/Users/odinluo/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/odinluo/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/odinluo/.nuget/packages/skiasharp/2.88.0-preview.232/skiasharp.2.88.0-preview.232.nupkg.sha512",
+    "/Users/odinluo/.nuget/packages/skiasharp.nativeassets.macos/2.88.0-preview.232/skiasharp.nativeassets.macos.2.88.0-preview.232.nupkg.sha512",
+    "/Users/odinluo/.nuget/packages/skiasharp.nativeassets.win32/2.88.0-preview.232/skiasharp.nativeassets.win32.2.88.0-preview.232.nupkg.sha512",
+    "/Users/odinluo/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/odinluo/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/odinluo/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
+    "/Users/odinluo/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -16,6 +16,26 @@
 
 想到这东西还能干点啥么？欢迎联系 https://t.me/Odinluo
 
+### mac 版本怎么玩
+
+mac 的开发工具还是建议使用 vs studio 2022，碰到问题调试起来会更容易一些。
+
+----
+
+因为程序是利用代理的模式去抓取网站的通讯，所以只要你打开了被抓取的网站就可以获取到关键字了。
+暂时没时间去调试浏览器证书环保什么的，所以只想测试一下的mac用户请这么玩：
+
+- 安装一个骚气的简化版浏览器，在这里我们推荐 https://menubarx.app/ 
+- 系统偏好 => 网络 => (当前激活的网络)高级 => 代理 =>
+- 先设置代理，默认为 127.0.0.1 8000 ， 将http 和 https 的代理都设置为这个，点右下角按钮（好），
+- 右下角按钮=>应用。
+- 打开release 版本的程序或者进入调试，run
+  - 终端运行 dotnet WordCloud.Proxy.dll
+- 使用你的简化版浏览器，访问 https://tools.miku.ac/news/ 
+- 回到你的终端，等待程序执行完成
+- 进入你的程序目录，查看最新生成的词云图片吧
+- 记得把你的代理设置改回去哟。
+
 # Today.WordCloud
 automatic create word cloud image with Chinese NEWS keywords in today 
 
@@ -28,3 +48,6 @@ https://registry.npmmirror.com/binary.html?path=chromedriver/100.0.4896.60/
 #### Contact
 
 if you have any question , please contact https://t.me/Odinluo
+
+
+
